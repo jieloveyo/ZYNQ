@@ -1,2 +1,2 @@
 # ZYNQ
- learning process
+ take notes from tht guide.
